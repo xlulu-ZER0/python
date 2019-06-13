@@ -465,4 +465,4 @@ with open('douluo_out.txt', 'w') as fout:
 ```
 好了，下面把《斗罗大陆》整个文档放进去试试，感觉就我这垃圾电脑运行应该很慢。。。唉。。。啥时候有钱了一定要买个 mbp 现在好好努力等我考上研一定得买个
 运行结果：
-
+![image](https://github.com/xlulu-ZER0/python/blob/python-%E8%AF%8D%E9%A2%91%E5%88%86%E6%9E%90/KVAYNENJDLI%7D9K%5BB)%60XFSMU.png)
